@@ -1,0 +1,15 @@
+PODS:
+  - MJRefresh (3.1.12)
+  - SVPullToRefresh (0.4.1)
+
+DEPENDENCIES:
+  - MJRefresh (~> 3.1.12)
+  - SVPullToRefresh (~> 0.4.1)
+
+SPEC CHECKSUMS:
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+
+PODFILE CHECKSUM: 40189754c418db6f0b13f302cc484f972974a627
+
+COCOAPODS: 1.1.1
